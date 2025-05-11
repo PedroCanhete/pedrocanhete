@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👩🏻‍💻 Pedro Medeiros
 
 **`Analista de Dados`**
@@ -157,11 +158,18 @@ Abaixo você poderá ver meus projetos utilizando Python, SQL e PowerBI
   .card-body h3 {
     margin-top: 0;
   }
+
+  .card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
 </style>
 
 <div class="projetos">
   <!-- Projeto 1 -->
-  <a href="https://github.com/PedroCanhete/Projeto-RH" width="300px" height="200px" target="_blank" class="card">
+  <a href="https://github.com/PedroCanhete/Projeto-RH" target="_blank" class="card">
     <img src="assets/triagem-rh.jpg" alt="Projeto 1">
     <div class="card-body">
       <h3>Análise de Triagem de Candidatos</h3>
@@ -170,7 +178,7 @@ Abaixo você poderá ver meus projetos utilizando Python, SQL e PowerBI
   </a>
 
   <!-- Projeto 2 -->
-  <a href="https://github.com/PedroCanhete/Dashboard-TrafegoPago" width="300px" height="200px" target="_blank" class="card">
+  <a href="https://github.com/PedroCanhete/Dashboard-TrafegoPago" target="_blank" class="card">
     <img src="assets/trafego-pago.jpg" alt="Projeto 2">
     <div class="card-body">
       <h3>Análise de Tráfego Pago</h3>
@@ -179,7 +187,7 @@ Abaixo você poderá ver meus projetos utilizando Python, SQL e PowerBI
   </a>
 
   <!-- Projeto 3 -->
-  <a href="https://github.com/PedroCanhete/Dashboard-Logistica" width="300px" height="200px" target="_blank" class="card">
+  <a href="https://github.com/PedroCanhete/Dashboard-Logistica" target="_blank" class="card">
     <img src="assets/logística.jpg" alt="Projeto 3">
     <div class="card-body">
       <h3>Análise de Performance Logística</h3>
@@ -188,7 +196,7 @@ Abaixo você poderá ver meus projetos utilizando Python, SQL e PowerBI
   </a>
 
   <!-- Projeto 4 -->
-  <a href="https://github.com/PedroCanhete/Dashboard-Vendas" width="300px" height="200px" target="_blank" class="card">
+  <a href="https://github.com/PedroCanhete/Dashboard-Vendas" target="_blank" class="card">
     <img src="assets/ecommerce.jpg" alt="Projeto 4">
     <div class="card-body">
       <h3>Análise de Vendas em E-Commerce</h3>
@@ -197,7 +205,7 @@ Abaixo você poderá ver meus projetos utilizando Python, SQL e PowerBI
   </a>
 
   <!-- Projeto 5 -->
-  <a href="https://github.com/PedroCanhete/Dashboard-Marketing" width="300px" height="200px" target="_blank" class="card">
+  <a href="https://github.com/PedroCanhete/Dashboard-Marketing" target="_blank" class="card">
     <img src="assets/campanhasdeMarketing.jpg" alt="Projeto 5">
     <div class="card-body">
       <h3>Análise de Campanhas de Marketing</h3>
@@ -206,7 +214,7 @@ Abaixo você poderá ver meus projetos utilizando Python, SQL e PowerBI
   </a>
 
   <!-- Projeto 6 -->
-  <a href="https://github.com/PedroCanhete/Analise-de-Credito" width="300px" height="200px" target="_blank" class="card">
+  <a href="https://github.com/PedroCanhete/Analise-de-Credito" target="_blank" class="card">
     <img src="assets/churnBanco.jpg" alt="Projeto 6">
     <div class="card-body">
       <h3>Análise de Churn Bancário</h3>
