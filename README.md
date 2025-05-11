@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👩🏻‍💻 Pedro Medeiros
 
 **`Analista de Dados`**
@@ -215,3 +216,6 @@ Abaixo você poderá ver meus projetos utilizando Python, SQL e PowerBI
   </a>
 </div>
 
+=======
+
+>>>>>>> 5e1f6aba81736a13dcfe5aee0f092373a6c8ea30
