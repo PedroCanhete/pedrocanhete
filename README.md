@@ -122,49 +122,7 @@ Meu objetivo é unir o conhecimento técnico com a bagagem profissional que cons
 
 Abaixo você poderá ver meus projetos utilizando Python, SQL e PowerBI
 
-<style>
-  .projetos {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 20px;
-  }
 
-  .card {
-    width: 48%;
-    background-color: #f4f4f4;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    text-decoration: none;
-    color: black;
-    transition: transform 0.2s;
-  }
-
-  .card:hover {
-    transform: scale(1.02);
-  }
-
-  .card img {
-    width: 100%;
-    height: auto;
-  }
-
-  .card-body {
-    padding: 15px;
-  }
-
-  .card-body h3 {
-    margin-top: 0;
-  }
-
-  .card img {
-  width: 100%;
-  height: 180px;
-  object-fit: cover;
-}
-
-</style>
 
 <div class="projetos">
   <!-- Projeto 1 -->
