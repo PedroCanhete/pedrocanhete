@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 👩🏻‍💻 Pedro Medeiros
 
 **`Analista de Dados`**
