@@ -120,63 +120,55 @@ Meu objetivo é unir o conhecimento técnico com a bagagem profissional que cons
 
 ## 📊 Projetos
 
-Abaixo você poderá ver meus projetos utilizando Python, SQL e PowerBI
+Abaixo você poderá ver meus projetos utilizando Python, SQL e Power BI:
 
-
-
-<div class="projetos">
-  <!-- Projeto 1 -->
-  <a href="https://github.com/PedroCanhete/Projeto-RH" target="_blank" class="card">
-    <img src="assets/triagemRH.jpeg" alt="Projeto 1">
-    <div class="card-body">
-      <h3>Análise de Triagem de Candidatos</h3>
-      <p>Classificação de perfis com base em dados de RH</p>
-    </div>
-  </a>
-
-  <!-- Projeto 2 -->
-  <a href="https://github.com/PedroCanhete/Dashboard-TrafegoPago" target="_blank" class="card">
-    <img src="assets/trafegoPago.jpeg" alt="Projeto 2">
-    <div class="card-body">
-      <h3>Análise de Tráfego Pago</h3>
-      <p>Análise de campanhas de tráfego pago de uma agência de marketing.</p>
-    </div>
-  </a>
-
-  <!-- Projeto 3 -->
-  <a href="https://github.com/PedroCanhete/Dashboard-Logistica" target="_blank" class="card">
-    <img src="assets/logística.jpeg" alt="Projeto 3">
-    <div class="card-body">
-      <h3>Análise de Performance Logística</h3>
-      <p>Análise de performance em uma dashboard logística com os principais KPIs.</p>
-    </div>
-  </a>
-
-  <!-- Projeto 4 -->
-  <a href="https://github.com/PedroCanhete/Dashboard-Vendas" target="_blank" class="card">
-    <img src="assets/ecommerce.jpeg" alt="Projeto 4">
-    <div class="card-body">
-      <h3>Análise de Vendas em E-Commerce</h3>
-      <p>Análise de vendas com os principais KPIs de um e-commerce.</p>
-    </div>
-  </a>
-
-  <!-- Projeto 5 -->
-  <a href="https://github.com/PedroCanhete/Dashboard-Marketing" target="_blank" class="card">
-    <img src="assets/marketing.jpeg" alt="Projeto 5">
-    <div class="card-body">
-      <h3>Análise de Campanhas de Marketing</h3>
-      <p>Análise de campanhas de marketing digital, avaliando performance visando o impulsionamento de métricas para aumentar a jornada dos clientes nos portais.</p>
-    </div>
-  </a>
-
-  <!-- Projeto 6 -->
-  <a href="https://github.com/PedroCanhete/Analise-de-Credito" target="_blank" class="card">
-    <img src="assets/churn.jpeg" alt="Projeto 6">
-    <div class="card-body">
-      <h3>Análise de Churn Bancário</h3>
-      <p>Análise de dados voltado para diminuir e prever os possíveis "Churns" de um banco.</p>
-    </div>
-  </a>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/PedroCanhete/Projeto-RH" target="_blank">
+        <img src="assets/triagemRH.jpeg" width="100%"/><br>
+        <strong>Análise de Triagem de Candidatos</strong><br>
+        Classificação de perfis com base em dados de RH.
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PedroCanhete/Dashboard-TrafegoPago" target="_blank">
+        <img src="assets/trafegoPago.jpeg" width="100%"/><br>
+        <strong>Análise de Tráfego Pago</strong><br>
+        Análise de campanhas de tráfego pago de uma agência de marketing.
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/PedroCanhete/Dashboard-Logistica" target="_blank">
+        <img src="assets/logística.jpeg" width="100%"/><br>
+        <strong>Análise de Performance Logística</strong><br>
+        Dashboard logística com principais KPIs para tomada de decisão.
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PedroCanhete/Dashboard-Vendas" target="_blank">
+        <img src="assets/ecommerce.jpeg" width="100%"/><br>
+        <strong>Análise de Vendas em E-Commerce</strong><br>
+        KPIs de vendas e performance por região e produto.
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/PedroCanhete/Dashboard-Marketing" target="_blank">
+        <img src="assets/marketing.jpeg" width="100%"/><br>
+        <strong>Análise de Campanhas de Marketing</strong><br>
+        Avaliação de métricas para engajamento e conversão.
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PedroCanhete/Analise-de-Credito" target="_blank">
+        <img src="assets/churn.jpeg" width="100%"/><br>
+        <strong>Análise de Churn Bancário</strong><br>
+        Identificação de risco de evasão com foco em retenção.
+      </a>
+    </td>
+  </tr>
+</table>
