@@ -169,7 +169,7 @@ Abaixo você poderá ver meus projetos utilizando Python, SQL e PowerBI
 <div class="projetos">
   <!-- Projeto 1 -->
   <a href="https://github.com/PedroCanhete/Projeto-RH" target="_blank" class="card">
-    <img src="assets/triagemrh.jpeg" alt="Projeto 1">
+    <img src="assets/triagemRH.jpeg" alt="Projeto 1">
     <div class="card-body">
       <h3>Análise de Triagem de Candidatos</h3>
       <p>Classificação de perfis com base em dados de RH</p>
