@@ -135,7 +135,7 @@ Abaixo você poderá ver meus projetos utilizando Python, SQL e Power BI:
       <a href="https://github.com/PedroCanhete/Dashboard-TrafegoPago" target="_blank">
         <img src="assets/trafegoPago.jpeg" width="90%"/><br>
         <strong>Análise de Tráfego Pago</strong><br>
-        Análise de campanhas de tráfego pago de uma agência de marketing.
+        Análise de campanhas de tráfego de uma agência de marketing.
       </a>
     </td>
   </tr>
@@ -144,7 +144,7 @@ Abaixo você poderá ver meus projetos utilizando Python, SQL e Power BI:
       <a href="https://github.com/PedroCanhete/Dashboard-Logistica" target="_blank">
         <img src="assets/logística.jpeg" width="90%"/><br>
         <strong>Análise de Performance Logística</strong><br>
-        Dashboard logística com principais KPIs para tomada de decisão.
+        Dashboard logística com principais KPIs p/ tomada de decisão.
       </a>
     </td>
     <td>
